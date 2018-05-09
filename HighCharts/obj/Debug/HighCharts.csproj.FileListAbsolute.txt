@@ -1,0 +1,23 @@
+E:\Mudassar\MySQL Database\HighCharts\HighCharts\bin\HighCharts.dll
+E:\Mudassar\MySQL Database\HighCharts\HighCharts\bin\HighCharts.pdb
+E:\Mudassar\MySQL Database\HighCharts\HighCharts\obj\Debug\HighCharts.csprojResolveAssemblyReference.cache
+E:\Mudassar\MySQL Database\HighCharts\HighCharts\obj\Debug\HighCharts.dll
+E:\Mudassar\MySQL Database\HighCharts\HighCharts\obj\Debug\HighCharts.pdb
+E:\Mudassar\MySQL Database\HighCharts\HighCharts\bin\Newtonsoft.Json.dll
+E:\Mudassar\MySQL Database\HighCharts\HighCharts\bin\Newtonsoft.Json.xml
+E:\Blog\Charts\HighCharts\HighCharts\bin\HighCharts.dll.config
+E:\Blog\Charts\HighCharts\HighCharts\bin\HighCharts.dll
+E:\Blog\Charts\HighCharts\HighCharts\bin\HighCharts.pdb
+E:\Blog\Charts\HighCharts\HighCharts\bin\Newtonsoft.Json.dll
+E:\Blog\Charts\HighCharts\HighCharts\bin\Newtonsoft.Json.xml
+E:\Blog\Charts\HighCharts\HighCharts\obj\Debug\HighCharts.csprojResolveAssemblyReference.cache
+E:\Blog\Charts\HighCharts\HighCharts\obj\Debug\HighCharts.dll
+E:\Blog\Charts\HighCharts\HighCharts\obj\Debug\HighCharts.pdb
+F:\My Blog\Charts\HighCharts\HighCharts\bin\HighCharts.dll.config
+F:\My Blog\Charts\HighCharts\HighCharts\bin\HighCharts.dll
+F:\My Blog\Charts\HighCharts\HighCharts\bin\HighCharts.pdb
+F:\My Blog\Charts\HighCharts\HighCharts\bin\Newtonsoft.Json.dll
+F:\My Blog\Charts\HighCharts\HighCharts\bin\Newtonsoft.Json.xml
+F:\My Blog\Charts\HighCharts\HighCharts\obj\Debug\HighCharts.csprojResolveAssemblyReference.cache
+F:\My Blog\Charts\HighCharts\HighCharts\obj\Debug\HighCharts.dll
+F:\My Blog\Charts\HighCharts\HighCharts\obj\Debug\HighCharts.pdb
